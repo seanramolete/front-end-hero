@@ -1,3 +1,8 @@
 body {
-    background-color: teal;
+    background-color: rgb(25, 23, 61);
+    color: white;
+}
+
+#main-nft {
+    width: 500px;
 }
