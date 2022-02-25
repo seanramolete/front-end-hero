@@ -1,8 +1,36 @@
+/* Classes */
+
 body {
     background-color: rgb(25, 23, 61);
     color: white;
 }
 
+h1 {
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: bold;
+    padding-top: 5%;
+}
+
+h3 {
+    font-size: 15px;
+
+}
+
+.nft-image {
+    width: 170%;
+}
+
+.eth-icon {
+    float: left;
+    padding-right: 5%;
+}
+
+/* Sections */
 #main-nft {
-    width: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 37%;
+    width: 350px;
+    
 }
